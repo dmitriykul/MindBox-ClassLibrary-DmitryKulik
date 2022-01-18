@@ -1,4 +1,4 @@
-﻿namespace DmitryKulik_MindBoxClassLibrary
+﻿namespace DmitryKulik_MindBoxClassLibrary.Interfaces
 {
     /// <summary>
     /// Интерфейс для работы с геометрическими фигурами

@@ -1,5 +1,5 @@
 using System;
-using DmitryKulik_MindBoxClassLibrary;
+using DmitryKulik_MindBoxClassLibrary.Implementations;
 using NUnit.Framework;
 
 namespace DmitryKulik_MindBoxTest

@@ -1,6 +1,7 @@
 ﻿using System;
+using DmitryKulik_MindBoxClassLibrary.Interfaces;
 
-namespace DmitryKulik_MindBoxClassLibrary
+namespace DmitryKulik_MindBoxClassLibrary.Implementations
 {
     public class Circle : Shape
     {
